@@ -1,2 +1,2 @@
 #!/bin/bash
-awk tail -n 1 {print; next}
+tail -n 1 iacta >> iacta
