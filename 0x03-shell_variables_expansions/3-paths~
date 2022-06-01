@@ -1,2 +1,0 @@
-#!/bin/bash
-expoert PATH=$PATH:find . -mindepth 1 -type d | wc -1
