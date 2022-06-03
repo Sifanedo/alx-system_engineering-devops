@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=school g hello
+chgrp --reference=school hello
